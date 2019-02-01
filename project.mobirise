@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "lukaspresteledeutsch.html",
+    "currentPage": "lpe.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,7 +55,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "lukaspresteledeutsch.html": {
+    "lpd.html": {
       "settings": {
         "main": true,
         "title": "Lukas Prestele Deutsch",
@@ -440,7 +440,7 @@
         }
       ]
     },
-    "lukaspresteleenglish.html": {
+    "lpe.html": {
       "settings": {
         "title": "Lukas Prestele English",
         "meta_descr": "Personal Website of Lukas Prestele",
