@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "e.html",
+    "currentPage": "d.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -52,7 +52,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 53,
     "versionPublish": "4.9.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/lp-128x92.png",
+    "noImageResize": ""
   },
   "pages": {
     "d.html": {
